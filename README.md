@@ -65,4 +65,4 @@ Upon successful enrollment, the isEnrolled flag is updated for each course, and 
 🖼️ Screenshots
 <p align="center"> <img src="images/Prereq.jpg" alt="Prereq" width="600"/> </p> *No prereq met* <p align="center"> <img src="images/Schedule.jpg" alt="schedule" width="600"/> </p> *Schedule view*
 <p align="center"> <img src="images/ScheduleConflict.jpg" alt="schedule" width="600"/> </p> *Schedule Conflict*
-<p align="center"> <img src="images/Schema.jpg" alt="schedule" width="600"/> </p> *Schema and database info*
+<p align="center"> <img src="images/schema.jpg" alt="schedule" width="600"/> </p> *Schema and database info*
