@@ -1,0 +1,1 @@
+CREATE INDEX idx_Student_ID ON Taken (Student_ID);

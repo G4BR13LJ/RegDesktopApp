@@ -1,0 +1,17 @@
+# Ignore user-specific files
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# Ignore sensitive information
+*.config
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vs/
+.idea/
