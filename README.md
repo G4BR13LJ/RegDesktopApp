@@ -63,4 +63,4 @@ A transaction enrolls the student into all courses in their cart, ensuring that 
 Upon successful enrollment, the isEnrolled flag is updated for each course, and capacity is incremented.
 
 🖼️ Screenshots
-<p align="center"> <img src="images/PreReq.jpg" alt="Prereq" width="600"/> </p> *No prereq met* <p align="center"> <img src="images/Schedule.jpg" alt="schedule" width="600"/> </p> *Schedule view*
+<p align="center"> <img src="images/Prereq.jpg" alt="Prereq" width="600"/> </p> *No prereq met* <p align="center"> <img src="images/Schedule.jpg" alt="schedule" width="600"/> </p> *Schedule view*
