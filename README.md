@@ -1,5 +1,6 @@
 🎓 School Scheduling App – University Registration System
-A highly optimized, database-driven university course registration system built in C# with SQL Server for backend data management.
+
+Highly optimized, database-driven university course registration system built in C# with SQL Server for backend data management.
 
 <p align="center"> <img src="images/ClassSearch.jpg" alt="Class Search UI" width="700"/> </p>
 
